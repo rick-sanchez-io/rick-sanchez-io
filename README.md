@@ -1,4 +1,2 @@
-## Hi there 👋
-
-Im Rick!
-python lover and developer.
+## Im Rick! 👾
+python lover and developer. 
